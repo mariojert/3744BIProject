@@ -21,4 +21,8 @@ Importing dplyr and ggplot libraries under the megalibrary "tidyverse":
 
 ANSWERING QUESTIONS (IN README.MD):
 
-Q1: 
+Q1: What is the correlation between ratings and total reviews recieved?
+
+> phones %>%
++ ggplot(aes(rating, totalReviews))+
++ geom_jitter()
