@@ -16,7 +16,7 @@ Questions & Analyses:
 1. What is the correlation between ratings and total reviews recieved?
 
 While there initially seems to be none, the data actually forms a shape similar to normal distribution. Most of the ratings with a score between 3.5 and 4.5 
-seems to have a higher than average amount of total reviews as well. More than likely the more popular a phone was the more polarizing reviews it got and that
+seems to have a higher than average amount of total reviews as well. More than likely the more popular a phone was, the more polarizing reviews it got and that
 ended up with it getting a larger amount of total reviews and a rating that seems average.
 
 2. Are reviews done been more helpful as time progresses?
