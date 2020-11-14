@@ -11,7 +11,7 @@ Using the ggplot and/or dplyr packages I will seek to answer the new few questio
 via data visualization techniques.
 
 
-Questions:
+Questions & Analyses:
 
 1. What is the correlation between ratings and total reviews recieved?
 
@@ -25,9 +25,19 @@ Reviews have seemed to be seen as more and more helpful in general as time progr
 more conscientious shoppers actively researching products within the reviews before purchases.
 
 3. For each brand, do prices correlate with how many reviews a specific product receives?
-Cheaper = more reviews more often than not
+
+Less expensive products seems to get more reviews across all of the brands that were within the dataset. Google, Samsung, OnePlus, Apple
+ and Asus definitely had more reviews than average for more expensive devices because they either produce more expensive devices in general
+(Samsung, Google, Apple, HUAWEI) or they do not produce too many different devices (ASUS, OnePlus).
 
 4. For each brand, is there any correlation between average rating, and average price?
-yes generally high price = lower avg rating besides 2 outliers
+
+On the left side of the data it is hard to see a correlation between average price and average rating. On the right side, however, brands that had a lower 
+average price saw a higher average rating. I suspect this is because there is lower risk when buying these products as far as price is concerned. That risk
+mitigation can lead to good press if a consumer is satisfied with their project.
 
 5. Do verified reviewers have a preference of brand that they like to review and do they generally review more expensive phones?
+
+Verified reviewers tend to review more Samsung phones than any other in general, however if you go back to phones_plot_brand.png you will see that there are more Samsung phones
+on Amazon than any other phone on this list. If you refer to Q5-3 they make up about 40% of all brands, with that being said I can only say that reviews correlate with the
+amount of products each brand has on Amazon and not preference of brand.
