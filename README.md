@@ -34,7 +34,7 @@ Less expensive products seems to get more reviews across all of the brands that 
 
 On the left side of the data it is hard to see a correlation between average price and average rating. On the right side, however, brands that had a lower 
 average price saw a higher average rating. I suspect this is because there is lower risk when buying these products as far as price is concerned. That risk
-mitigation can lead to good press if a consumer is satisfied with their project.
+mitigation can lead to good press if a consumer is satisfied with their product.
 
 5. Do verified reviewers have a preference of brand that they like to review and do they generally review more expensive phones?
 
