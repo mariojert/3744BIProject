@@ -7,9 +7,19 @@ https://www.kaggle.com/grikomsn/amazon-cell-phones-reviews?select=20191226-revie
 
 Note: Some prices seemed to be inaccurate, so I could not include phones that were priced $1 or less.
 
-Using both the ggplot and dplyr packages I will seek to answer the new few questions 
+Using the ggplot and/or dplyr packages I will seek to answer the new few questions 
 via data visualization techniques.
 
-1. What is the correlation between ratings and total reviews recieved?
 
-3. Is there any correlation between brand and average rating?
+Questions:
+
+1. What is the correlation between ratings and total reviews recieved?
+seems to be none
+
+2. Are reviews done been more helpful as time progresses?
+yes, large amount of them verified
+
+3. For each brand is there any correlation between average rating, and average price?
+yes generally high price = lower avg rating besides 2 outliers
+
+4. For each brand do prices correlate with how many reviews a specific product receives?
