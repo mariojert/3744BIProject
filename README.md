@@ -14,10 +14,15 @@ via data visualization techniques.
 Questions:
 
 1. What is the correlation between ratings and total reviews recieved?
-seems to be none
+
+While there initially seems to be none, the data actually forms a shape similar to normal distribution. Most of the ratings with a score between 3.5 and 4.5 
+seems to have a higher than average amount of total reviews as well. More than likely the more popular a phone was the more polarizing reviews it got and that
+ended up with it getting a larger amount of total reviews and a rating that seems average.
 
 2. Are reviews done been more helpful as time progresses?
-yes, large amount of them verified
+
+Reviews have seemed to be seen as more and more helpful in general as time progresses. It may be because with time there have been: more users on Amazon in general, and
+more conscientious shoppers actively researching products within the reviews before purchases.
 
 3. For each brand, do prices correlate with how many reviews a specific product receives?
 Cheaper = more reviews more often than not
